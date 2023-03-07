@@ -42,7 +42,6 @@
 ; ========================================================================================================
 extern printf
 extern scanf
-extern qsort
 extern rdrand
 extern compare
 extern stdin
